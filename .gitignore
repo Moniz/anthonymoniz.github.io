@@ -1,28 +1,5 @@
-﻿docs/Gemfile
-docs/Gemfile.lock
-
 _site
 .sass-cache
-.DS_Store
+.jekyll-cache
 .jekyll-metadata
-
-# Ignore the config file that's used for gh-pages.
-_config.gh-pages.yml
-
-Gemfile.lock
-docs/vendor/
-vendor/
-.bundle\/config
-
-##############
-# Intellij
-##############
-.idea
-
-########
-# Python
-########
-**/poetry.lock
-**/media
-
-**/__pycache__
+vendor
