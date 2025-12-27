@@ -1,5 +1,6 @@
 ---
 title: Admin Test
+categories: Career
 ---
 
 This is a test

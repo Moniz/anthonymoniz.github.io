@@ -2,6 +2,7 @@
 layout: post
 author: Anthony
 title: The Eve of Christmas 
+categories: Personal
 ---
 
 An apple is a sweet, edible fruit produced by an apple tree.
